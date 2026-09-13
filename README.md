@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-| | |
+| Role | OSS |
 | --- | --- |
 | **Maintainer** | ![Yamada UI](https://img.shields.io/badge/-Yamada%20UI-000000?logoColor=white&style=flat-square) |
 | **Contribute** | ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white&style=flat-square) ![WXT](https://img.shields.io/badge/-WXT-54bc4b?logo=wxt&logoColor=white&style=flat-square) |
