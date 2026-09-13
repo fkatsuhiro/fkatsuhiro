@@ -4,6 +4,8 @@
 <a href="https://fkatsuhiro.github.io/portfolio/">
   <img src="https://api.microlink.io/?url=https%3A%2F%2Ffkatsuhiro.github.io%2Fportfolio%2F&screenshot=true&meta=false&embed=screenshot.url" width="300" alt="Portfolio">
 </a>
+<br/>
+<br/>
 
 [![@fkatsuhiro's Astro contributions](https://astro.badg.es/v2/contributor/fkatsuhiro.svg)](https://astro.badg.es/contributor/fkatsuhiro/)
 
